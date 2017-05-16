@@ -1,12 +1,26 @@
-[01] you, 5
-[02] me, 5
-[03] ho, 5
-[04] let's go, 5
-[05] you, 5
-[06] me, 5
-[07] ho, 5
-[08] let's go, 5
-[09] you, 5
-[10] me, 5
-[11] ho, 5
-[12] let's go, 5
+ 1, 3, Mary had a little lamb
+ 2, 3, Mary also had a gigantic crocodile
+ 3, 3, The crocodile was large and green and very ferocious
+ 4, 3, The lamb was sheepishly looking
+ 5, 3, Mary kept both at an undisclosed location near Area 51
+ 6, 3, Mary did not keep the two separated by wall or fence of any kind
+ 7, 3, The crocodile was walking in circles around a tiny puddle
+ 8, 3, when it caugh a glimpse of the sheepishly looking lamb
+ 9, 3, on the corner of its shiny eye
+10, 3, The ferocious crocodile immediately and happily thought:,
+11, 3, "Yum! Dinner is served!"
+12, 3, The vicious crocodile threw its 2000 pounds of flesh towards the lamb,
+13, 3, tail wiggling and teeth sharp as chirurgical blades
+14, 3, The lamb was not afraid
+15, 3, for the lamb was a kung-fu master and a part-time hacker in disguise
+16, 3, The lamb stopped the incoming train of flesh
+17, 3, with a perfectly delivered jump-kick to the crocodile's jaw
+18, 3, to then hack into the crocodile's mainframe
+19, 3, through the unprotected ethernet port on the back of its head
+20, 3, where it installed an elaborate computer virus
+21, 3, The virus to this day
+22, 3, keeps the crocodile walking around
+23, 3, looking significantly less ferocious
+24, 3, and lighting up every 3 minutes
+25, 3, like a Christmas tree illuminating the sky
+26, 3, with the faintness of an autumn breeze
