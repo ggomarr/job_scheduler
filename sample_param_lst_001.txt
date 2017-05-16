@@ -11,16 +11,3 @@
 11, 3, "Yum! Dinner is served!"
 12, 3, The vicious crocodile threw its 2000 pounds of flesh towards the lamb,
 13, 3, tail wiggling and teeth sharp as chirurgical blades
-14, 3, The lamb was not afraid
-15, 3, for the lamb was a kung-fu master and a part-time hacker in disguise
-16, 3, The lamb stopped the incoming train of flesh
-17, 3, with a perfectly delivered jump-kick to the crocodile's jaw
-18, 3, to then hack into the crocodile's mainframe
-19, 3, through the unprotected ethernet port on the back of its head
-20, 3, where it installed an elaborate computer virus
-21, 3, The virus to this day
-22, 3, keeps the crocodile walking around
-23, 3, looking significantly less ferocious
-24, 3, and lighting up every 3 minutes
-25, 3, like a Christmas tree illuminating the sky
-26, 3, with the faintness of an autumn breeze

@@ -1,1 +1,2 @@
-pending, unfinished, sample_parallelizer_job, str task_param_lst_file sample_param_lst.txt, eval job_param datetime.date.today()
+pending, unfinished, sample_parallelizer_job, str task_param_lst_file sample_param_lst_001.txt, eval job_param datetime.datetime.now()
+pending, unfinished, sample_parallelizer_job, str task_param_lst_file sample_param_lst_002.txt, eval job_param datetime.datetime.now()

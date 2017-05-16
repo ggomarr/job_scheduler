@@ -1,0 +1,13 @@
+ 1, 3, The lamb was not afraid
+ 2, 3, for the lamb was a kung-fu master and a part-time hacker in disguise
+ 3, 3, The lamb stopped the incoming train of flesh
+ 4, 3, with a perfectly delivered jump-kick to the crocodile's jaw
+ 5, 3, to then hack into the crocodile's mainframe
+ 6, 3, through the unprotected ethernet port on the back of its head
+ 7, 3, where it installed an elaborate computer virus
+ 8, 3, The virus to this day
+ 9, 3, keeps the crocodile walking around
+10, 3, looking significantly less ferocious
+11, 3, and lighting up every 3 minutes
+12, 3, like a Christmas tree illuminating the sky
+13, 3, with the faintness of an autumn breeze
